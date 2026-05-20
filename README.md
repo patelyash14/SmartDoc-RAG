@@ -1,6 +1,6 @@
 # SmartDoc-RAG
 
-> Chat with your PDF documents using AI 🤖  
+> Chat with your PDF documents using AI   
 > Built using Retrieval-Augmented Generation (RAG), LangChain, HuggingFace embeddings, and ChromaDB.
 
 ---
